@@ -1,0 +1,53 @@
+/* Estilos para el cuerpo (body) */
+body {
+    text-align: center;
+}
+
+/* Estilos para la imagen de perfil (img) */
+img {
+    max-width: 200px; /* Tamaño máximo de la imagen */
+    border-radius: 50%; /* Para redondear la imagen de perfil */
+}
+
+/* Estilos para el nombre (h1) */
+h1 {
+    font-size: 24px; /* Tamaño de fuente del nombre */
+    color: #333; /* Cambia el color del nombre a tu preferencia */
+}
+
+/* Estilos para la lista de habilidades (ul) y elementos de la lista (li) */
+ul {
+    list-style-type: none; /* Quita los puntos de la lista */
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin: 5px 0;
+}
+
+/* Estilos para los enlaces a las redes sociales (redes-sociales) */
+.redes-sociales a {
+    text-decoration: none;
+    color: #7a3399; /* Color de enlaces */
+}
+
+.redes-sociales a:hover {
+    color: #FF5733; /* Cambia el color al pasar el cursor por encima */
+}
+
+/* Estilos para el encabezado (header) */
+header {
+    background-color: #6b3399; /* Cambia el color a tu preferencia */
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilos para el pie de página (footer) */
+footer {
+    background-color: #753399; /* Cambia el color a tu preferencia */
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
